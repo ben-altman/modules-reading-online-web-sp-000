@@ -9,7 +9,7 @@ angelina.twirl
 #// returns "I'm twirling!"
 angelina.jump
 #// returns "Look how high I'm jumping!"
- 
+
 buster = Kid.new
 buster.jump
 #// returns "Look how high I'm jumping!"
